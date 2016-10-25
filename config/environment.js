@@ -10,15 +10,14 @@ module.exports = function(environment) {
       FEATURES: {
         // Here you can enable experimental features on an ember canary build
         // e.g. 'with-controller': true
-      }
+        }
       },
 
       firebase: {
-        apiKey: "AIzaSyBzgUdZ42Y2skSJZL4gK602wyFIqgz9_BQ",
-        authDomain: "super-rentals-6e957.firebaseapp.com",
-        databaseURL: "https://super-rentals-6e957.firebaseio.com",
-        storageBucket: "super-rentals-6e957.appspot.com"
-
+        apiKey: "AIzaSyBSz8R69YrY5cCsNS9RYVdTOjrK4S24yM0",
+        authDomain: "super-rentals-e4db9.firebaseapp.com",
+        databaseURL: "https://super-rentals-e4db9.firebaseio.com",
+        storageBucket: "super-rentals-e4db9.appspot.com",
       },
 
     APP: {
